@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("aaa")
         print("bbb")
+        print("live")
+    }
+
         
     }
     override func viewDidAppear(_ animated: Bool) {
