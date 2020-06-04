@@ -15,8 +15,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("aaa")
         print("bbb")
+        
     }
-
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        print("aaa")
+    }
 
 }
 
