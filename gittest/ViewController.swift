@@ -25,6 +25,9 @@ class ViewController: UIViewController {
         super.viewDidAppear(animated)
         print("aaa")
     }
+    func  didabv(){
+        print("bb")
+    }
 
 }
 
