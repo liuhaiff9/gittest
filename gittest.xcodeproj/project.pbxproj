@@ -15,6 +15,7 @@
 		C9D55705248893130046C62C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D55703248893130046C62C /* LaunchScreen.storyboard */; };
 		C9D5570D2488938B0046C62C /* coskd.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D5570C2488938B0046C62C /* coskd.swift */; };
 		C9D5570F24889D800046C62C /* gitaaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D5570E24889D800046C62C /* gitaaa.swift */; };
+		C9D557112489CB6B0046C62C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C9D557102489CB6B0046C62C /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		C9D55706248893130046C62C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C9D5570C2488938B0046C62C /* coskd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coskd.swift; sourceTree = "<group>"; };
 		C9D5570E24889D800046C62C /* gitaaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitaaa.swift; sourceTree = "<group>"; };
+		C9D557102489CB6B0046C62C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		C9D556EC248893120046C62C = {
 			isa = PBXGroup;
 			children = (
+				C9D557102489CB6B0046C62C /* .gitignore */,
 				C9D556F7248893120046C62C /* gittest */,
 				C9D556F6248893120046C62C /* Products */,
 			);
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9D557112489CB6B0046C62C /* .gitignore in Resources */,
 				C9D55705248893130046C62C /* LaunchScreen.storyboard in Resources */,
 				C9D55702248893130046C62C /* Assets.xcassets in Resources */,
 				C9D55700248893120046C62C /* Main.storyboard in Resources */,
