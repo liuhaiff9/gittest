@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C9A76894248DD30B00679DAA /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C9A76893248DD30B00679DAA /* .gitignore */; };
 		C9D556F9248893120046C62C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D556F8248893120046C62C /* AppDelegate.swift */; };
 		C9D556FB248893120046C62C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D556FA248893120046C62C /* SceneDelegate.swift */; };
 		C9D556FD248893120046C62C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D556FC248893120046C62C /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C9A76893248DD30B00679DAA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		C9D556F5248893120046C62C /* gittest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gittest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9D556F8248893120046C62C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9D556FA248893120046C62C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		C9D556EC248893120046C62C = {
 			isa = PBXGroup;
 			children = (
+				C9A76893248DD30B00679DAA /* .gitignore */,
 				C9D556F7248893120046C62C /* gittest */,
 				C9D556F6248893120046C62C /* Products */,
 			);
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9A76894248DD30B00679DAA /* .gitignore in Resources */,
 				C9D55705248893130046C62C /* LaunchScreen.storyboard in Resources */,
 				C9D55702248893130046C62C /* Assets.xcassets in Resources */,
 				C9D55700248893120046C62C /* Main.storyboard in Resources */,
